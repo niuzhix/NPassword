@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+      "NPassword (Package)": {
+        "commandName": "MsixPackage"
+      },
+      "NPassword (Unpackaged)": {
+        "commandName": "Project"
+      }
+    }
+}
