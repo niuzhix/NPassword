@@ -93,7 +93,7 @@
                         <local:Tile
                             Title="开源仓库"
                             Description="欢迎贡献代码！当然功能样式请求和 Bug 反馈也请交到 Issue 中！"
-                            Link="https://github.com/denglihong2007/NPassword">
+                            Link="https://github.com/niuzhix/NPassword">
                             <local:Tile.Source>
                                 <Viewbox>
                                     <PathIcon Data="{StaticResource GitHubIconPath}" Foreground="{ThemeResource TextFillColorPrimaryBrush}" />
@@ -111,7 +111,7 @@
                         <local:Tile
                             Title="交流鹅群"
                             Description="在这里，分享你的使用经验与建议。或者玩玩抽象。加入暗号：114514"
-                            Link="https://qm.qq.com/q/uxCsP2veYS">
+                            Link="https://qm.qq.com/q/lAjlFlTn5S">
                             <local:Tile.Source>
                                 <Image Source="/Assets/HomeHeaderTiles/Header-QQ.png"/>
                             </local:Tile.Source>
